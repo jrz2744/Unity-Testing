@@ -1118,8 +1118,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c755bd57bde47c14f8130b887c1559ee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sensX: 800
-  sensY: 800
+  sensX: 100
+  sensY: 100
   orientation: {fileID: 778779329}
   xRotation: 0
   yRotation: 0
