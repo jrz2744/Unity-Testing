@@ -12,7 +12,3 @@ This repository serves as my personal space for testing the Unity engine, experi
 While this repo is primarily for personal use, feel free to fork it or open issues if you stumble upon something intriguing or have suggestions.
 
 Happy coding and game-making!
-
- /\_/\  
-( o.o ) 
- > ^ <
